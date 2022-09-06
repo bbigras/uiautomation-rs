@@ -1,6 +1,6 @@
 # Rust for windows uiautomation
 
-The `uiatomation-rs` crate is a wrapper for windows uiautomation. This crate can help you make windows uiautoamtion API calls conveniently.
+The `uiautomation-rs` crate is a wrapper for windows uiautomation. This crate can help you make windows uiautomation API calls conveniently.
 
 ## Usages
 
